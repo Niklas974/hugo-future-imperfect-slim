@@ -246,7 +246,7 @@ disableLanguages        = [""]
 
   [Languages.de]
     LanguageCode        = "de"
-    LanguageName        = "Deutsche"
+    LanguageName        = "Deutsch"
     weight              = 5
 
   [Languages.es]
